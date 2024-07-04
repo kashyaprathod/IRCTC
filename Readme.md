@@ -31,7 +31,7 @@ The IRTC App is a comprehensive and sophisticated railway booking system meticul
 
 1. Navigate to the backend directory:
    ```bash
-   cd irtc-app/backend
+   cd IRCTC/backend
    ```
 2. Install the dependencies:
    ```bash

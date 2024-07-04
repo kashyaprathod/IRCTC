@@ -1,6 +1,6 @@
 # IRCTC
 
-The IRTC App is a comprehensive and sophisticated railway booking system meticulously built using advanced modern web technologies. It boasts a wide range of features, including robust user authentication, efficient booking management, and train schedules. By leveraging the latest in both frontend and backend technologies, the app provides users with a seamless and highly satisfying experience.
+The IRCTC App is a comprehensive and sophisticated railway booking system meticulously built using advanced modern web technologies. It boasts a wide range of features, including robust user authentication, efficient booking management, and train schedules. By leveraging the latest in both frontend and backend technologies, the app provides users with a seamless and highly satisfying experience.
 
 ## Features
 

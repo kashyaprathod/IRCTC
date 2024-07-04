@@ -37,7 +37,7 @@ The IRTC App is a comprehensive and sophisticated railway booking system meticul
    ```bash
    npm install
    ```
-3. Create a `.env` file in the `backend` directory and add the following:
+3. Create a `config.env` file in the `config` folder of the `backend` directory and add the following:
    ```
    JWT_SECRET=your_jwt_secret_key
    MONGO_URI=your_mongoDB_connection_string
